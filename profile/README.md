@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to [SyntaxSquadX]
+# 🚀 Welcome to SyntaxSquadX
 
 ### *Innovating. Building. Inspiring.*
 
@@ -10,7 +10,7 @@
 
 ## 🌟 About Us
 
-At **[SyntaxSquadX]**, we believe in pushing the boundaries of technology.  
+At **SyntaxSquadX**, we believe in pushing the boundaries of technology.  
 We are a group of passionate developers, innovators, and problem-solvers dedicated to building **modern software**, contributing to **open source**, and fostering a **community of curious minds**.
 
 Our mission is simple —  
