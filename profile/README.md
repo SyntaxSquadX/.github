@@ -4,8 +4,6 @@
 
 ### *Innovating. Building. Inspiring.*
 
-![Banner](https://github.com/your-org/.github/blob/main/profile/banner.png?raw=true)
-
 </div>
 
 ---
@@ -26,13 +24,6 @@ Our mission is simple —
 - ⚡ **Software Development** — From concept to deployment, we build scalable and reliable solutions.  
 - 🔒 **Cybersecurity Research** — Exploring ethical hacking, penetration testing, and security automation.  
 - 🎓 **Community Learning** — Organizing coding challenges, hackathons, and mentorship programs.
-
----
-
-## 💼 Our Tech Stack
-
-![Languages](https://skillicons.dev/icons?i=java,cpp,python,js,html,css,react,spring,linux,git)
-
 ---
 
 ## 🤝 Join the Movement
